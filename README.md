@@ -15,9 +15,7 @@ View and manage the departments, roles, and employees in a company to organize a
 
 ## Installation
 
-To install the required packages, use the following command:
-
-'git clone git@github.com:GenjutsYou/Employee-Tracker.git'
+    git clone git@github.com:GenjutsYou/Employee-Tracker.git
 
 ## Credits
 
