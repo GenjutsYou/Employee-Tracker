@@ -9,6 +9,7 @@ View and manage the departments, roles, and employees in a company to organize a
 ## Table of Contents
 
 - [Installation](#installation)
+- [Tests](#tests)
 - [Credits](#credits)
 - [License](#license)
 - [Contact](#contact)
@@ -16,6 +17,10 @@ View and manage the departments, roles, and employees in a company to organize a
 ## Installation
 
     git clone git@github.com:GenjutsYou/Employee-Tracker.git
+
+## Tests
+
+    npm start
 
 ## Credits
 
